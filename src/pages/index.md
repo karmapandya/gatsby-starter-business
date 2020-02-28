@@ -1,10 +1,8 @@
 ---
 templateKey: home-page
 title: SellerMonk
-heading: Lorem ipsum dolor sit amet
-description: >-
-  Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,
-  adipisci velit...
+heading: Services
+description: Explore Some of Our Services
 offerings:
   blurbs:
     - image: /img/coffee.png
